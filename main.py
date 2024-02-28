@@ -1,4 +1,4 @@
-from Clasetarea import Clasetarea
+from alumno import alumno
 
 def main():
     daniel = alumno()
