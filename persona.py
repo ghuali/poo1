@@ -11,10 +11,10 @@ class persona:
         print(cumple)
 
 
-    def main():
+def main():
         Aday = persona("Aday",19)
         Aday.imprimir()
         Aday.cumpleaños()
 
 
-    main()
+main()
