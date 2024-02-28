@@ -8,8 +8,8 @@ class alumno:
 
     def promociona(self):
         if self.nota >= 5:
-            return True
+            print( "aprueba")
         else:
-            return False
+            print("Supende")
 
 
