@@ -1,9 +1,9 @@
 from alumno import alumno
 
 def main():
-    daniel = alumno()
-    daniel.nota = 5
+    daniel = alumno("daniel",5)
     daniel.imprimir()
+    daniel.promociona()
 
 
 if __name__ == "__main__":
