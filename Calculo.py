@@ -29,11 +29,12 @@ if __name__ == '__main__':
     numeros = Caluculo(int(input()),int(input()))
     print("Elige del 1 al 4:")
     elec = int(input())
-    if elec == '1':
-        Caluculo.suma
-    if elec == '2':
-        Caluculo.resta
-    if elec == '3':
-        Caluculo.multi
-    if elec == '4':
-        Caluculo.div
+    if elec == 1:
+        numeros.suma()
+    elif elec == 2:
+        numeros.resta()
+    elif elec == 3:
+        numeros.multi()
+    elif elec == 4:
+        numeros.div()
+
