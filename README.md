@@ -1,5 +1,7 @@
-# Titulo
+# PRogramacion orientada a Objetos
 
-## Subtitulo
+## Ejercicios de introducción
 
-Información
+- Animal
+- Alumno
+- Persona
